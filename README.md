@@ -8,7 +8,7 @@ This repository contains the final project for **AI & ML Foundations**, focusing
 
 - **JupyterNotebookipynb.zip** – Notebook with all preprocessing, feature engineering, model training, and evaluation steps.
 - **PPT Presentation.pdf** – Project presentation summarizing methods, results, and insights.
-- **Report.pdf** – Full research paper with methodology, results, and hypothesis testing:contentReference[oaicite:1]{index=1}.
+- **Report.pdf** – Full research paper with methodology, results, and hypothesis testing.
 - **income202447.csv** – Dataset with county-level per capita income for California.
 - **telco.csv** – Main Telco churn dataset (from Kaggle/IBM).
 - **zip_code_database.csv** – Zip code to county mapping for California.

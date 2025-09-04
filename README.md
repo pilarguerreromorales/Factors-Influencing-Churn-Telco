@@ -29,7 +29,7 @@ Customer churn is a critical issue in the telecom industry, as acquiring new cus
 
 ---
 
-## 🔬 Key Findings
+## Key Findings
 
 - **Supported Hypotheses**:
   - Customers with **monthly contracts** are more likely to churn.
@@ -44,15 +44,6 @@ Customer churn is a critical issue in the telecom industry, as acquiring new cus
     - Better interpretability of coefficients.
     - Comparable performance (recall ≈ 0.96 on test set).
     - Reduced reliance on single dominant features (e.g., satisfaction score).
-
----
-
-## Tech Stack
-
-- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- **Jupyter Notebook**
-- **Random Forests, Logistic Regression**
-- **Kaggle Telco Churn dataset** + external socioeconomic datasets
 
 ---
 
